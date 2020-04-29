@@ -1,5 +1,7 @@
 # Simple Cloud Function to demonstrate bug in GCP
 
+This repository helps reproduce a GCP bug. Link to issue tracker: https://issuetracker.google.com/issues/155215191
+
 ### Steps to reproduce
 
 Login to your GCP project in your CLI and type `./deploy.sh`
